@@ -1,0 +1,21 @@
+.Pool{
+    width: 600px;
+    height: 300px;
+    border-right: 3px solid;
+    border-bottom: 3px solid;
+    border-left: 3px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: 2px;
+}
+
+.Water{
+    width: 600px;
+    height: 50px;
+    background: aqua;
+}
+
+button{
+    cursor: pointer;
+}
